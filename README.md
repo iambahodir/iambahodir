@@ -2,13 +2,12 @@
 
 # Привет, я Баходир 👋
 
-<img width="320" src="https://media.giphy.com/media/l3q2wtwn6fqpn70EU/giphy.gif" alt="Tyler Durden" />
-
 ### AI Agents & Full-Stack Developer | UI/UX & Product Designer
 
 Создаю рабочих AI-агентов, веб-сайты и мобильные приложения.<br/>
 Делаю игры на Godot и Roblox и продумываю продукт от идеи до красивого интерфейса.
 
+<a href="https://t.me/iam_Bahodir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <img src="https://komarev.com/ghpvc/?username=iambahodir&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
 
 ---
