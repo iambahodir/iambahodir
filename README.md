@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/TdnHyApKqsLVDF7ZuR/giphy.gif" alt="Tyler Durden" />
+<img align="right" width="300" src="https://media.giphy.com/media/l3q2wtwn6fqpn70EU/giphy.gif" alt="Tyler Durden" />
 
 ### 🧠 About me
 
