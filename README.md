@@ -1,18 +1,18 @@
 <div align="center">
 
-# Привет, я Баходир 👋
+# Hi, I'm Bahodir
 
 ### AI Agents & Full-Stack Developer | UI/UX & Product Designer
 
-Создаю рабочих AI-агентов, веб-сайты и мобильные приложения.<br/>
-Делаю игры на Godot и Roblox и продумываю продукт от идеи до красивого интерфейса.
+I build working AI agents, websites and mobile apps.<br/>
+I make games in Godot and Roblox, and design products from the first idea to a polished interface.
 
 <a href="https://t.me/iam_Bahodir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <img src="https://komarev.com/ghpvc/?username=iambahodir&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
 
 ---
 
-### 💻 Стек и технологии
+### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,godot,lua,figma,git,github,vscode&perline=11" alt="skills" />
 
@@ -27,30 +27,30 @@
 
 ---
 
-### ⚡ Чем занимаюсь
+### What I Do
 
-- 🤖 **AI-агенты:** разрабатываю рабочих AI-агентов, которые сами выполняют задачи: автоматизация, поиск информации, ассистенты и боты.
-- 🌐 **Web Development:** сайты и веб-приложения на HTML, CSS, JavaScript и Python.
-- 📱 **Mobile Apps:** мобильные приложения на Python + Flet.
-- 🎨 **UI/UX & Product Design:** проектирую интерфейсы и продукт целиком: от идеи и прототипа до готового дизайна.
-- 🎮 **Game Dev:** игры на Godot и Roblox Studio (Lua).
+- **AI Agents:** I build working AI agents that handle tasks on their own: automation, research, assistants and bots.
+- **Web Development:** websites and web apps with HTML, CSS, JavaScript and Python.
+- **Mobile Apps:** mobile applications with Python + Flet.
+- **UI/UX & Product Design:** interfaces and whole products, from idea and prototype to final design.
+- **Game Dev:** games in Godot and Roblox Studio (Lua).
 
 ---
 
-### 🤖 Мои AI-агенты
+### My AI Agents
 
-| Агент | Что умеет |
+| Agent | What it does |
 |:--|:--|
-| 🧭 **Автоматизация** | Получает задачу, сам планирует шаги и доводит до результата |
-| 🔎 **Исследователь** | Ищет, читает и кратко пересказывает информацию |
-| 💬 **Ассистент-бот** | Отвечает на вопросы и помогает пользователям 24/7 |
-| 🛠️ **Dev-агент** | Пишет, тестирует и исправляет код вместе со мной |
+| **Automation** | Takes a task, plans the steps and gets it done |
+| **Research** | Searches, reads and summarizes information |
+| **Assistant bot** | Answers questions and helps users 24/7 |
+| **Dev agent** | Writes, tests and fixes code alongside me |
 
 ---
 
 <div align="center">
 
-### 📊 GitHub статистика
+### GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=iambahodir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=iambahodir&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
